@@ -18,5 +18,8 @@
     <ClCompile Include="..\..\..\src\tests\main_gpio_test_on_win.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\src\tests\original_main_gpio_test_on_win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
